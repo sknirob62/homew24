@@ -1,0 +1,51 @@
+.box{
+width: 100px;
+height: 100px;	
+}
+.red{
+
+background-color: red;
+border: 10px solid black;
+}
+.green{
+
+background-color: green;
+margin: 20px 30px 40px 50px;
+}
+.blue{
+	background-color: blue;
+	border: 10px solid skyblue;
+	padding: 50px;
+}
+.yellow{
+
+	background-color: yellow;
+	padding-top: 50px;
+}
+h1{
+	display: inline;
+}
+h2{
+display: inline;
+}
+h3{
+	font-size: 100px;
+}
+.span{
+	color: blue;
+}
+.frame{
+	width: 38%;
+	height: 375px;
+}
+
+a{
+	display: block;
+}
+p{
+display: inline-block;	
+}
+.fram{
+	width: 100%;
+	height: 450px;
+}
